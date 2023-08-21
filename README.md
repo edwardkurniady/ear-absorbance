@@ -3,7 +3,7 @@
 
 ## Overview
 
-Conductive hearing loss is a prevalent health concern in young children. This project applies the Support Vector Machine (SVM) to predict conductive hearing loss using wideband absorbance (WBA) data and narrow down key frequencies for the prediction.
+Conductive hearing loss is a prevalent health concern in young children. In my Master's degree capstone project, I applied the Support Vector Machine (SVM) to predict conductive hearing loss using wideband absorbance (WBA) data and narrow down key frequencies for the prediction.
 
 
 ## Methodology
