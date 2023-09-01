@@ -17,4 +17,4 @@ The research was conducted using Python and Jupyter Notebook, using the followin
 
 ## Results
 
-The final SVM model effectively distinguished between normal and hearing-impaired ears by focusing on absorbance levels within the frequency range of 1000 to 2000 Hz. This frequency range provides a smaller, more focused area for audiologists to examine on the WBA chart and serves as a starting point for future studies.
+The final SVM model, with accuracy exceeding 85%, effectively distinguished between normal and hearing-impaired ears by focusing on absorbance levels within the frequency range of 1000 to 2000 Hz. This frequency range provides a smaller, more focused area for audiologists to examine on the WBA chart and serves as a starting point for future studies.
